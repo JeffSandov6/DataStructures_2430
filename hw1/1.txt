@@ -1,0 +1,9 @@
+The Hungry, hungry caterpillar
+Eric Johnson
+123
+X10=3.1416
+Y=2.718281
+hang
+ABC XYZ
+hungry yes no
+X10
