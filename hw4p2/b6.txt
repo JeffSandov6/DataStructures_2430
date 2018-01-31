@@ -1,0 +1,2 @@
+<a href="d6.txt">d6</a>
+<a href="e6.txt">e6</a>
