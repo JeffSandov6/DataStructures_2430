@@ -1,0 +1,7 @@
+read(A,’A.txt’)
+read(B,’B.txt’)
+read(C,’C.txt’)
+R1=A
+R2=B
+R1=R1+R2
+write(R1,’out.txt')

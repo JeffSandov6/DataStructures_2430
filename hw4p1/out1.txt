@@ -1,0 +1,7 @@
+alpha
+beta
+bird
+cat
+delta
+dog
+gamma

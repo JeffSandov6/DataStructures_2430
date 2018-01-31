@@ -1,0 +1,10 @@
+read(A,'set1.txt')
+read(B,'set2.txt')
+read(C,'set3.txt')
+read(D,'set4.txt')
+read(E,'set5.txt')
+read(F,'set6.txt')
+R1=A+B
+R2=D*E
+R3=(R1+R2)+(C+F)
+write(R3,'out14.txt')

@@ -1,0 +1,15 @@
+read(A,'set1.txt')
+read(B,'set2.txt')
+read(C,'set3.txt')
+read(D,'set4.txt')
+read(E,'set5.txt')
+read(F,'set6.txt')
+read(G,'set7.txt')
+read(H,'set8.txt')
+read(J,'set9.txt')
+R1=A+B+C+D+E+F+G+H+J
+R2=A*B*C*D*E*F*G*H*J
+R3=R1+R2
+write(R1,'out11.txt')
+write(R2,'out12.txt')
+write(R3,'out13.txt')

@@ -1,0 +1,7 @@
+alp
+alpha
+beta
+delta
+dog
+gamma
+ha

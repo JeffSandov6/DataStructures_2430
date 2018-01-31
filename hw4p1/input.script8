@@ -1,0 +1,5 @@
+read(A,'set1.txt')
+R1=(A+B*C+D)+(E+F+G+H+J)
+R2=A*(B+C)
+R3=R1*(R1+R2)+R2
+write(A,'out18.txt')

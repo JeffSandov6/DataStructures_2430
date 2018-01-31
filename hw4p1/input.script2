@@ -1,0 +1,11 @@
+read(A,'A.txt')
+read(B,'B.txt')
+read(C,'C.txt')
+R1=A+B
+R2=A*B
+R3=A+B*C
+R4=(A+B)*C
+R5=(A+B)*R4+A
+write(R3,'out3.txt')
+write(R4,'out4.txt')
+write(R5,'out5.txt')
